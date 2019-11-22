@@ -1,0 +1,13 @@
+package io.wisoft.programmers.practice.addingdigits;
+
+import java.util.Arrays;
+
+public class Solution {
+
+  public int solution(int n) {
+    return Arrays.stream(String.valueOf(n).split(""))
+        .mapToInt(Integer::parseInt)
+        .sum();
+  }
+
+}
