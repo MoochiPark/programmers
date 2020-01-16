@@ -9,7 +9,7 @@
 <details>
   <summary><b>연습문제</b></summary>
   <ul>
-    <li><a href="https://github.com/MoochiPark/programmers/tree/master/practice/year2016">2016년</a></li>
+    <li><a href="https://github.com/MoochiPark/programmers/tree/master/src/연습문제/">2016년</a></li>
     <li><a href="https://github.com/MoochiPark/programmers/tree/master/practice/getmiddleletter">가운데 글자 가져오기</a></li>
     <li><a href="https://github.com/MoochiPark/programmers/tree/master/practice/hatesamenumber">같은 숫자는 싫어</a></li>
     <li><a href="https://github.com/MoochiPark/programmers/tree/master/practice/dividearray">나누어 떨어지는 숫자 배열</a></li>
