@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class Solution {
 
   public int[] solution(int[] array, int[][] commands) {
-    return Arrays.stream(commands).parallel()
+    return Arrays.stream(commands)
         .map(arr -> {
           int[] tmp = Arrays.copyOfRange(array, --arr[0], arr[1]);
           Arrays.sort(tmp);
