@@ -1,4 +1,4 @@
-package io.wisoft.programmers.hash.phonebook;
+package 해시.전화번호_목록;
 
 import java.util.Arrays;
 import java.util.stream.IntStream;
