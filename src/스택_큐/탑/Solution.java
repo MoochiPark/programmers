@@ -1,4 +1,4 @@
-package
+package 스택_큐.탑;
 
 class Solution {
 
