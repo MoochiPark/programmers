@@ -1,4 +1,4 @@
-package io.wisoft.programmers.practice.sortatwill;
+package 연습문제.문자열_내_마음대로_정렬하기;
 
 import java.util.*;
 import java.util.stream.Collectors;
