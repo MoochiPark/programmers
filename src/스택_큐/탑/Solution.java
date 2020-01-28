@@ -1,3 +1,5 @@
+package
+
 class Solution {
 
     public int[] solution(int[] heights) {
