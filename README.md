@@ -76,7 +76,7 @@
 </details>
 
   <details>
-  <summary><b>왼전탐색</b></summary>
+  <summary><b>완전탐색</b></summary>
   <ul>
     <li><a href="">모의고사</a></li>
 	</ul>
