@@ -1,5 +1,5 @@
 # *Programmers*
-![](https://img.shields.io/badge/solved%20%20-59-green?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/moochipark/programmers?color=orange&logo=java&style=flat-square)
+![](https://img.shields.io/badge/solved%20%20-61-green?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/moochipark/programmers?color=orange&logo=java&style=flat-square)
 
 프로그래머스(programmers.co.kr) 알고리즘 문제풀이를 위한 저장소입니다.
 
