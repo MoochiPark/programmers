@@ -1,4 +1,4 @@
-package 큐.프린터;
+package 스택_큐.프린터;
 
 import java.awt.*;
 import java.util.*;
