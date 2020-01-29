@@ -52,17 +52,17 @@
   <details>
   <summary><b>스택/큐</b></summary>
   <ul>
-    <li><a href="">탑</a></li>
-    <li><a href="">다리를 지나는 트럭</a></li>
-    <li><a href="">기능개발</a></li>
-    <li><a href="">주식가격</a></li>
+    <li><a href="https://github.com/MoochiPark/programmers/tree/master/src/스택_큐/탑">탑</a></li>
+    <li><a href="https://github.com/MoochiPark/programmers/tree/master/src/스택_큐/다리를_지나는_트럭">다리를 지나는 트럭</a></li>
+    <li><a href="https://github.com/MoochiPark/programmers/tree/master/src/스택_큐/기능개발">기능개발</a></li>
+    <li><a href="https://github.com/MoochiPark/programmers/tree/master/src/스택_큐/주식가격">주식가격</a></li>
 	</ul>
 </details>
 
   <details>
   <summary><b>힙(Heap)</b></summary>
   <ul>
-    <li><a href="">라면공장</a></li>
+    <li><a href="https://github.com/MoochiPark/programmers/tree/master/src/">라면공장</a></li>
     <li><a href="">디스크 컨트롤러</a></li>
 	</ul>
 </details>
