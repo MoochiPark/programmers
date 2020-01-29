@@ -18,7 +18,7 @@
     <li><a href="https://github.com/MoochiPark/programmers/tree/master/src/연습문제/문자열_내_p와_y의_개수">문자열 내 p와 y의 개수</a></li>
     <li><a href="https://github.com/MoochiPark/programmers/tree/master/src/연습문제/문자열_내림차순으로_배치하기">문자열 내림차순으로 배치하기</a></li>
     <li><a href="https://github.com/MoochiPark/programmers/tree/master/src/연습문제/문자열_다루기_기본">문자열 다루기 기본</a></li>
-    <li><a href="https://github.com/MoochiPark/programmers/tree/master/src/연습문제/서울에서_김서방_찾기">서울에서 김서방 찾기</a></li>
+    <li><a href="https://github.com/MoochiPark/programmers/tree/master/src/연습문제/서울에서_김서방찾기">서울에서 김서방 찾기</a></li>
     <li><a href="https://github.com/MoochiPark/programmers/tree/master/src/연습문제/소수_찾기">소수 찾기</a></li>
     <li><a href="https://github.com/MoochiPark/programmers/tree/master/src/연습문제/수박수박수박수">수박수박수박수박수박수?</a></li>
     <li><a href="https://github.com/MoochiPark/programmers/tree/master/src/연습문제/문자열을_정수로_바꾸기">문자열을 정수로 바꾸기</a></li>
