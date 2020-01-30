@@ -62,8 +62,8 @@
   <details>
   <summary><b>힙(Heap)</b></summary>
   <ul>
-    <li><a href="https://github.com/MoochiPark/programmers/tree/master/src/">라면공장</a></li>
-    <li><a href="">디스크 컨트롤러</a></li>
+    <li><a href="https://github.com/MoochiPark/programmers/tree/master/src/힙/라면공장">라면공장</a></li>
+    <li><a href="https://github.com/MoochiPark/programmers/tree/master/src/힙/디스크_컨트롤러">디스크 컨트롤러</a></li>
 	</ul>
 </details>
 
